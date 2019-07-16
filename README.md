@@ -53,7 +53,7 @@ standard library names:
 </div>
 also, it has references to original names from kotlin standard library, that must be satisfied by target application:
 <div align="center">
-    <img height="350px" src="https://raw.githubusercontent.com/dimorinny/r8-external-dependencies-mappings-instrumentation-tests/master/images/kotlin_stdlib_in_test_application_references.jpg">
+    <img src="https://raw.githubusercontent.com/dimorinny/r8-external-dependencies-mappings-instrumentation-tests/master/images/kotlin_stdlib_in_test_application_references.jpg">
 </div>
 but it is unpossible, because target application has proguarded kotlin standard library.
 
